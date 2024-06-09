@@ -1,0 +1,6 @@
+﻿  main.c
+  queue.c
+  Generating Code...
+C:\Users\Umang\Downloads\DSA\Assignment 1\Assignment 1\queue.c(38,3): warning C4550: expression evaluates to a function which is missing an argument list
+C:\Users\Umang\Downloads\DSA\Assignment 1\Assignment 1\queue.c(72,3): warning C4013: 'strcpy' undefined; assuming extern returning int
+  Assignment 1.vcxproj -> C:\Users\Umang\Downloads\DSA\Assignment 1\x64\Debug\Assignment 1.exe
